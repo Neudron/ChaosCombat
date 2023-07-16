@@ -1,7 +1,7 @@
 # Chaos Combat
 
 [![Roblox](https://img.shields.io/badge/Roblox-Play-blue)](https://www.roblox.com/games/13462619859/Chaos-Combat)
-[![Twitter](https://img.shields.io/twitter/follow/neudronx?style=social)](https://twitter.com/neudronx)
+[![Twitter](https://img.shields.io/twitter/follow/SoyNeudron?style=social)](https://twitter.com/SoyNeudron)
 
 Chaos Combat is a Roblox game where you can 
 
@@ -29,6 +29,7 @@ Chaos Combat is a Roblox game where you can
 ## Credits
 
 - Created by @neudronx, a Roblox developer
+- Animated by @Accesorio5000, a Roblox Animator
 - Uses assets from Roblox Studio and some free models from the Roblox library
 - Inspired by other Roblox games (SoulShatters,Alternate Battlegrounds and KobK)
 
