@@ -29,6 +29,7 @@ Chaos Combat is a Roblox game where you can
 ## Credits
 
 - Created by @neudronx, a Roblox developer
+- Animated by @Accesorio5000, a Roblox Animator
 - Uses assets from Roblox Studio and some free models from the Roblox library
 - Inspired by other Roblox games (SoulShatters,Alternate Battlegrounds and KobK)
 
