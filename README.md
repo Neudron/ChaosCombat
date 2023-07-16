@@ -1,7 +1,7 @@
 # Chaos Combat
 
 [![Roblox](https://img.shields.io/badge/Roblox-Play-blue)](https://www.roblox.com/games/13462619859/Chaos-Combat)
-[![Twitter](https://img.shields.io/twitter/follow/neudronx?style=social)](https://twitter.com/neudronx)
+[![Twitter](https://img.shields.io/twitter/follow/neudron?style=social)](https://twitter.com/neudron)
 
 Chaos Combat is a Roblox game where you can 
 
