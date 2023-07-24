@@ -83,3 +83,5 @@ function LoadingScreen.disableAsync()
 		LoadingScreen._instance:Destroy()
 	end)
 end
+
+print("test")

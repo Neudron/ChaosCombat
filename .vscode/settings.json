@@ -1,0 +1,7 @@
+{
+    "robloxLsp.completion.deprecatedMembers": true,
+    "robloxLsp.completion.callParenthesess": true,
+    "robloxLsp.completion.alwaysShowMethods": true,
+    "robloxLsp.completion.endAutocompletion": true,
+    "robloxLsp.diagnostics.neededFileStatus": {}
+}
