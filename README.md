@@ -3,7 +3,8 @@
 [![Roblox](https://img.shields.io/badge/Roblox-Play-blue)](https://www.roblox.com/games/13462619859/Chaos-Combat)
 [![Twitter](https://img.shields.io/twitter/follow/SoyNeudron?style=social)](https://twitter.com/SoyNeudron)
 
-Chaos Combat is a Roblox game where you can... CAN!
+Chaos Combat is a Roblox game where you can...
+Fight other players with a variety of Characters from franchaices.
 
 ## Table of Contents
 
