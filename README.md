@@ -30,6 +30,7 @@ Fight other players with a variety of Characters from franchaices.
 ## Credits
 
 - Created by @neudronx, a Roblox developer
+- Soundtrack by @FenixLope11
 - Animated by @Accesorio5000, a Roblox Animator
 - Uses assets from Roblox Studio and some free models from the Roblox library
 - Inspired by other Roblox games (SoulShatters,Alternate Battlegrounds and KobK)
